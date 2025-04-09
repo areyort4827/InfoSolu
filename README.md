@@ -1,7 +1,7 @@
 # **infoSolu** - 🚀 **Soluciones Tecnológicas para tu Empresa** 🌐
 
 ---
-
+## commit Isidoro
 ## **¿Quiénes somos?** 
 
 **infoSolu** es una empresa especializada en ofrecer **soluciones tecnológicas innovadoras** y personalizadas para empresas de todos los tamaños. Nos dedicamos a **optimizar tus procesos**, **mejorar la eficiencia** y **fortalecer tu presencia digital**. A través de nuestros servicios de desarrollo de software, consultoría IT, ciberseguridad y soporte técnico, aseguramos que tu empresa se mantenga competitiva en un mundo cada vez más digital.
